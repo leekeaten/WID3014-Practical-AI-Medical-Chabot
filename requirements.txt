@@ -3,4 +3,3 @@ nltk
 pandas
 scikit-learn
 streamlit
-python==3.11
