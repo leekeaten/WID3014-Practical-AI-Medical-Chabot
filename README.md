@@ -34,7 +34,7 @@ streamlit run app.py
 ```
 
 ## Demo website
-pending
+https://medbuddy-zup8hofkojxwrhwuwrcyac.streamlit.app/
 
 ## Group Members
 
