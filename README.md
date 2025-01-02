@@ -34,7 +34,7 @@ streamlit run app.py
 ```
 
 ## Demo website
-https://medbuddy-zup8hofkojxwrhwuwrcyac.streamlit.app/
+https://practical-ai-medical-chabot-app.streamlit.app/
 
 ## Group Members
 
