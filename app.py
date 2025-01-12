@@ -24,6 +24,13 @@ except Exception as e:  # noqa: BLE001
 
 symptoms = data1["text"]
 
+# Create a sidebar
+st.sidebar.title("Instructions")
+st.sidebar.write("1. Write your symptoms in detail into the text box at the bottom.")
+st.sidebar.write("2. Write at least 5 keywords that can describe your condition.")
+st.sidebar.title("Example")
+st.sidebar.write("I have difficulty in breathing, my eyes are itchy and I am sneezing all the time")
+
 # Set the app title
 col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
